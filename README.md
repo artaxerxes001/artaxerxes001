@@ -19,6 +19,8 @@ Isso é um pouco sobre mim 😄
   <img align="center" alt="Artaxerxes-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Artaxerxes-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Artaxerxes-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-
- 
 </div>
+ <br>
+ <div>
+   ![Snake animation](https://github.com/artaxerxes001/artaxerxes001/blob/output/github-contribution-grid-snake.svg)
+ </div>
